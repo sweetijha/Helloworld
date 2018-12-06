@@ -1,0 +1,17 @@
+{
+  "name": "github.com/sweetijha/hospital",
+  "version": "0.0.0",
+  "description": "sweetijha/Hospital @ Dec 1, 2018",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^31.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
+    "react-native-elements": "^0.19.1",
+    "react-native-image-slider": "^2.0.3",
+    "react-native-ionicons": "4.4.6",
+    "react-navigation": "^2.18.2"
+  }
+}
